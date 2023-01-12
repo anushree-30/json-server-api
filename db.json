@@ -2,36 +2,36 @@
     "buckets": [
       {
         "id": 1,
-        "name": "Computer"
+        "name": "Education"
       },
       {
         "id": 2,
-        "name": "New"
+        "name": "Entertainment"
       }
     ],
     "cards": [
       {
         "id": 1,
-        "name": "Anushree",
-        "url": "http://www.google.com",
+        "name": "Video 1",
+        "url": "https://www.youtube.com/embed/tgbNymZ7vqY",
         "bucketId": 1
       },
       {
         "id": 2,
-        "name": "Archit",
-        "url": "http://www.flipkart.com",
+        "name": "Video 2",
+        "url": "https://www.youtube.com/embed/EcxYcpF3W7c",
         "bucketId": 1
       },
       {
         "id": 3,
-        "name": "Apoorva",
-        "url": "http://www.google22.com",
+        "name": "Video 3",
+        "url": "https://www.youtube.com/embed/tgbNymZ7vqY",
         "bucketId": 2
       },
       {
         "id": 4,
-        "name": "Anushka",
-        "url": "http://www.amazon.com",
+        "name": "Video 4",
+        "url": "https://www.youtube.com/embed/EcxYcpF3W7c",
         "bucketId": 2
       }
     ]
